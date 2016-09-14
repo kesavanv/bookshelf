@@ -1,0 +1,6 @@
+baseurl = "https://kesavanv.github.io/bookshelf/"
+languageCode = "en-us"
+title = "Mrithu Book reviews"
+
+[Params]
+  Author = "Kesav"
